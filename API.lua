@@ -1,8 +1,8 @@
 local RitualnieAPI = {}
 
 local HttpService = game:GetService("HttpService")
-local Secret = "a8lmDOJOJIFOgOMTDpgS"
-local Hostname = "vps.diltz.link:3002"
+local Secret = "a8lmDOJOJIFOgOMTDpgS" --// ключ не валидный
+local Hostname = "vps.diltz.link:3002" --// этот Hostname уже старый если что
 local HTTPs = false
 local Endpoints = require(script.Endpoints)
 
